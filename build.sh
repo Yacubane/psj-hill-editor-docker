@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-docker build -t foo .
+docker build -t psj-hill-editor .
