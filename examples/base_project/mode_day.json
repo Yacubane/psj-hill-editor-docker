@@ -1,0 +1,21 @@
+{
+  "background": {
+    "sky": [
+      { "color": "afe9ddff", "heightPercentage": 1.0 },
+      { "color": "afe9ddff", "heightPercentage": 0.0 },
+      { "color": "afe9ddff", "heightPercentage": -1.0 }
+    ],
+     "objects":[]
+  },
+  "foreground": {
+    "objects":[]
+  },
+  "shadings": {},
+  "skiJumperShading": "default",
+  "hillBodyOverlayShading": "default",
+  "effectShadings": {
+    "snowParticlesShading": "default"
+  },
+  "layerShadings": {
+  }
+}

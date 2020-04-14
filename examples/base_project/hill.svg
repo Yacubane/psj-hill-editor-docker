@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:psjhill="https://github.com/jakubdybczak/pure-ski-jumping"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="hill.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-71.649469"
+     inkscape:cy="885.80814"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="special"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -78.646103,45.871736 c 4.36881,3.059073 8.73762,6.118147 13.10643,9.17722 -0.544711,-0.381511 -2.842444,-1.990005 -1.232399,-0.863351 14.697218,10.33245 29.831152,20.642042 47.085809,26.192348 6.192137,2.096249 12.6258104,3.259889 19.0434247,4.417444"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -0.6428383,87.895397 c 31.1698693,3.535739 57.4948043,22.594353 82.1029663,40.604643 21.358142,15.99052 43.206782,34.44386 70.669752,37.8669 18.69225,1.88522 37.55224,0.44902 56.31296,0.89828 52.16916,0 104.33832,0 156.50748,0"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffa500;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -78.646103,45.871736 13.10643,9.17722"
+       id="path6"
+       psjhill:type="special"
+       psjhill:special-type="start-bar-area" />
+    <polyline
+       transform="matrix(1,0,0,-1,-0.6428383,84.795397)"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       points="111.44559 -71.54604 119.44559 -63.546043 "
+       id="polyline20"
+       psjhill:type="special"
+       psjhill:special-type="hill-size-cross" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 1.8140069,82.698224 C 32.983877,86.233962 59.30881,105.29258 83.916974,123.30287 c 21.358146,15.99052 43.206786,34.44386 70.669756,37.8669 18.69225,1.88522 37.55225,0.44902 56.31296,0.89828 52.16917,0 104.33833,0 156.50749,0"
+       id="path4-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -2.4382252,94.98245 c 31.1698732,3.535735 57.4948022,22.59436 82.1029672,40.60465 21.358148,15.99052 43.206788,34.44386 70.669758,37.8669 18.69225,1.88522 37.55225,0.44902 56.31296,0.89828 52.16917,0 104.33833,0 156.5075,0"
+       id="path4-6-7"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:none;stroke:#0084d7;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1219"
+       cx="-17.103424"
+       cy="63.316219"
+       r="3.4962797"
+       psjhill:type="special"
+       psjhill:special-type="viewpoint" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     psjhill:type="layer"
+     psjhill:layer-num="0"
+     psjhill:layer-type="BACKGROUND">
+    <path
+       style="fill:#f8ebff;fill-opacity:1;stroke:#180000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -78.646104,45.871735 13.10643,9.17722 c -0.544711,-0.38151 -2.842444,-1.990005 -1.232399,-0.863351 14.697218,10.33245 29.831152,20.642043 47.085808,26.192348 6.192139,2.096249 12.625811,3.259889 19.04342496,4.417444 l 0.210312,10.84884 -77.83239096,-0.777388 z"
+       id="path2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       psjhill:type="shape" />
+    <path
+       style="fill:#f8ebb0;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -0.64283704,87.895397 C 30.527033,91.431135 56.851973,110.48975 81.460133,128.50004 c 21.358137,15.99052 43.206777,34.44386 70.669747,37.8669 18.69225,1.88522 37.55225,0.44902 56.31296,0.89828 h 156.50747 l -0.52665,18.64436 -240.26741,-7.28079 -124.27243904,-67.41643 z"
+       id="path4-62"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       psjhill:type="shape" />
+  </g>
+</svg>
